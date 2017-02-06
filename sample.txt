@@ -2,3 +2,4 @@ medici
 git
 add data
 data pull
+add conflict test
